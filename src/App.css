@@ -1,0 +1,7 @@
+.mr-4 button{
+  margin-top: 5px;
+  margin-left: 10px;
+}
+.mr-4 button:first-child{
+  margin-left: 0;
+}
